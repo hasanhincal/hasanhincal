@@ -1,9 +1,3 @@
-### Hi there 👋
-
-
-**hasanhincal/hasanhincal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 Hi there, I'm Hasan 👋
 A Frontend Developer specialized in React.js
