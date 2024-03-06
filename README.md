@@ -47,5 +47,5 @@ Server-side rendering with Next.js
 📫 How to reach me:
 
 Email: hasanfatime14@gmail.com
-LinkedIn: https://www.linkedin.com/in/hasan-hincal-4b292a24a
+LinkedIn: https://www.linkedin.com/in/hasanhincal
 GitHub: https://github.com/hasanhincal
