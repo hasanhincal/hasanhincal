@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hasan and I'm a React I Front-end Developer from Turkey</h2>
+<h2 align="left">Hi 👋!</br> My name is Hasan and I'm a React I Front-end Developer from Turkey</h2>
 
 ###
 
@@ -34,10 +34,9 @@
   <a href="https://x.com/HasanHasan36095" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-  <a href="https://www.gmail.com/hasanfatime14@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
 </div>
+<p>E-mail: hasanfatime14@gmail.com</p>
+
 
 ###
 
