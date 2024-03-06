@@ -39,7 +39,7 @@
 ###
 
 A Frontend Developer specialized in React.js
-I'm Hasan, a passionate developer with a love for frontend development. I specialize in React.js and enjoy building modern, responsive web applications that provide a seamless user experience. I have a strong foundation in HTML, CSS, and JavaScript, which allows me to create beautiful and functional interfaces.
+I'm  a passionate developer with a love for frontend development. I specialize in React.js and enjoy building modern, responsive web applications that provide a seamless user experience. I have a strong foundation in HTML, CSS, and JavaScript, which allows me to create beautiful and functional interfaces.
 
 What I'm currently focusing on:
 Building user interfaces with React.js
