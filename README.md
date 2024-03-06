@@ -45,6 +45,7 @@ What I'm currently focusing on:
 Building user interfaces with React.js
 Learning advanced CSS techniques to create stunning designs
 Exploring the latest frontend development tools and libraries
+
 🛠️ Technologies & Tools:
 Languages: JavaScript (ES6+), HTML5, CSS3
 Frameworks & Libraries: React.js, Redux, Bootstrap
@@ -56,7 +57,7 @@ Performance optimization techniques for frontend applications
 Server-side rendering with Next.js
 
 📫 How to reach me:
-Email: [hasanfatime14@gmail.com]
+  Email: hasanfatime14@gmail.com
 
 
 
