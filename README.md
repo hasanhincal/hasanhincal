@@ -56,8 +56,8 @@ Performance optimization techniques for frontend applications
 Server-side rendering with Next.js
 
 📫 How to reach me:
-Email: [hasanfatime14@gmail.com]
-GitHub: [htpps://github.com/hasanhincal]
+Email: hasanfatime14@gmail.com
+
 
 
 
