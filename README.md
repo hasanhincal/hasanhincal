@@ -36,26 +36,32 @@
 
 ###
 
-A Frontend Developer specialized in React.js
-I'm  a passionate developer with a love for frontend development. I specialize in React.js and enjoy building modern, responsive web applications that provide a seamless user experience. I have a strong foundation in HTML, CSS, JavaScript, React and TypeScript which allows me to create beautiful and functional interfaces.
+# 🚀 Frontend Developer - React.js Specialist
 
-What I'm currently focusing on:
-Building user interfaces with React.js
-Learning advanced CSS techniques to create stunning designs
-Exploring the latest frontend development tools and libraries
+I'm a passionate developer with a love for frontend development. I specialize in React.js and enjoy building modern, responsive web applications that provide a seamless user experience. I have a strong foundation in HTML, CSS, JavaScript, React, and TypeScript, which allows me to create beautiful and functional interfaces.
 
-🛠️ Technologies & Tools:
-Languages: JavaScript (ES6+)
-Frameworks & Libraries: React.js, Redux Bootstrap and Tailwind
-Tools: Git, GitHub, Visual Studio Code
+## 🎯 What I'm Currently Focusing On
 
-🌱 I'm currently learning:
-Advanced React.js concepts such as context API and hooks
-Performance optimization techniques for frontend applications
+- **Building user interfaces with React.js**
+- **Learning advanced CSS techniques** to create stunning designs
+- **Exploring the latest frontend development tools and libraries**
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** JavaScript (ES6+)
+- **Frameworks & Libraries:** React.js, Redux, Bootstrap, Tailwind
+- **Tools:** Git, GitHub, Visual Studio Code
+
+## 🌱 I'm Currently Learning
+
+- **Advanced React.js concepts** such as Context API and hooks
+- **Performance optimization techniques** for frontend applications
+- **Next.js** - Building dynamic, server-rendered applications
 
 
 📫 How to reach me:
   Email: hasanfatime14@gmail.com
+  My Portfolio: https://www.safewebsite.store/
 
 
 
