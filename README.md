@@ -36,8 +36,6 @@
 
 ###
 
-# 🚀 Frontend Developer - React.js Specialist
-
 I'm a passionate developer with a love for frontend development. I specialize in React.js and enjoy building modern, responsive web applications that provide a seamless user experience. I have a strong foundation in HTML, CSS, JavaScript, React, and TypeScript, which allows me to create beautiful and functional interfaces.
 
 ## 🎯 What I'm Currently Focusing On
