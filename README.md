@@ -57,9 +57,9 @@ I'm a passionate developer with a love for frontend development. I specialize in
 - **Next.js** - Building dynamic, server-rendered applications
 
 
-📫 How to reach me:
-  Email: hasanfatime14@gmail.com
-  My Portfolio: https://www.safewebsite.store/
+## 📫 How to reach me:
+  - **Email:** hasanfatime14@gmail.com
+  - **My Portfolio:** https://www.safewebsite.store/
 
 
 
