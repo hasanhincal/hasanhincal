@@ -64,7 +64,6 @@ I'm a passionate developer with a love for frontend development. I specialize in
 
 
 ## 📫 How to reach me:
-  - **Email:** hasanfatime14@gmail.com
   - **My Portfolio:**
   https://www.myportfolio.safewebsite.store  
   https://www.safewebsite.store/
